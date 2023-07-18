@@ -1,0 +1,77 @@
+
+.background-bottom{
+    background-color:#270d44;
+    color:white; 
+  }
+.background-color{
+    background-color:#f8f2f8;
+}
+.forgetpwd{
+    float:right;color:#2c0264;padding:10px;
+}
+.loginotp{
+    color: #2c0264;padding-top:10px;
+}
+
+.registerBtn{
+    color:#270d44;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 5px;
+    border:1px solid black;
+    padding:5px 20px;
+    background-color: white;
+}
+.eyeicon{
+    padding: 10px;
+    background-color: white;
+    color: rgb(207, 202, 202);
+    border-left: 0px;
+}                         
+#signupBtn a{
+    color:black;
+    text-decoration: none;
+}
+
+.btn-light.white,.btn-light.white.active{
+    color:black;
+    background-color: white !important;
+    border-radius: 1px solid;
+    box-shadow: 0 .125rem .25rem rgba(0,0,0,.075)!important;
+      
+}
+.nav-pills .style.active{
+    color:black !important;
+    background-color: white !important;
+    border-radius: 1px solid;
+    font-weight:bold;
+    box-shadow: 10px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+.nav-pills .style {
+    color:rgb(223, 221, 221) !important;
+    background-color: white !important;
+    border-radius: 1px solid;
+    box-shadow: 10px;
+    font-weight:bold;
+}
+/* 
+.btn-light.active .fa-circle-check{
+    display: block !important;
+    color: #2c0264;
+}
+.btn-light .fa-circle-check{
+    display: none;
+} */
+
+.input[type='checkbox'] {
+    accent-color: green;
+  }
+#companyImg img{
+    width:18%;
+    border:1px solid rgb(241, 239, 239);
+    background-color: white;
+    padding:10px;
+    margin-right:10px;
+
+}

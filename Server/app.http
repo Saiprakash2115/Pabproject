@@ -1,0 +1,13 @@
+GET http://localhost:3004/
+###
+
+POST http://localhost:3004/Signupform
+Content-Type: application/json
+
+{
+    "typeOfRegistration":"jobseeker",
+    "fullName":"Ajay Kumar",
+    "email":"ajay@gmail.com",
+    "mobileNumber":"9676891723",
+    "gender":"Male"
+}
